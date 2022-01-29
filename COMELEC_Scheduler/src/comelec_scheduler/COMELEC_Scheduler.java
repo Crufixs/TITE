@@ -12,7 +12,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class COMELEC_Scheduler {
+    
     public static void main(String... args) {
+        
+        /*
         String path = "C:\\Users\\Carlo\\Dropbox\\My PC (DESKTOP-KM6VH5E)\\Documents\\NetBeansProjects\\Prog-Lang-Proj\\COMELEC.csv";
         String line = "";
         String[][] schedule = new String[100][];
@@ -35,6 +38,17 @@ public class COMELEC_Scheduler {
         for(int i = 0; i < schedule.length; i++ ) {
             
         }
+        
+        tite ka carlo
+        */
+    }
+    
+    public void readClassCSV(){
+        
+    }
+    
+    public void readFacilitatorCSV() {
+        
     }
 
 }
