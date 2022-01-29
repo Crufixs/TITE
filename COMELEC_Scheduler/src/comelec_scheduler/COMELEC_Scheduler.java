@@ -14,8 +14,6 @@ import java.util.List;
 public class COMELEC_Scheduler {
     public static void main(String... args) {
         String path = "C:\\Users\\Carlo\\Dropbox\\My PC (DESKTOP-KM6VH5E)\\Documents\\NetBeansProjects\\Prog-Lang-Proj\\COMELEC.csv";
-        //tite ka carlo
-        //mas tite mama mo
         String line = "";
         String[][] schedule = new String[100][];
         
